@@ -1,0 +1,6 @@
+<Solution>
+  <Folder Name="/Solution Items/">
+    <File Path=".gitignore.txt" />
+  </Folder>
+  <Project Path="Made4U/Made4U.csproj" />
+</Solution>
