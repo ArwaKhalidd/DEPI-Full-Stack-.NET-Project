@@ -21,26 +21,6 @@ The main objective of this project is to design and develop an online platform t
 - Trusted service providers through ratings and reviews
 
 ---
-
-## 🧩 Problem Statement
-
-Customers often struggle to find trustworthy local craftsmen or manufacturers for custom orders.  
-There is limited transparency regarding pricing and quality, and communication between customers and service providers is inefficient, which leads to wasted time and unsatisfactory results.
-
----
-
-## 💡 Solution Overview
-
-Made4U provides:
-
-- A place where customers can post custom order requests
-- A system for craftsmen and factories to submit offers
-- A comparison mechanism for offers
-- Order tracking and messaging
-- Rating and review system
-
----
-
 ## 🚀 Main Features
 
 - User registration and authentication
